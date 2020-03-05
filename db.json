@@ -1,0 +1,39 @@
+{
+  "chores": [
+    {
+      "chore": "wef",
+      "status": "completed",
+      "id": 1
+    },
+    {
+      "chore": "ewr",
+      "status": "active",
+      "id": 2
+    },
+    {
+      "chore": "ewr",
+      "status": "active",
+      "id": 3
+    },
+    {
+      "chore": "wrew",
+      "status": "active",
+      "id": 4
+    },
+    {
+      "chore": "rew",
+      "status": "active",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
